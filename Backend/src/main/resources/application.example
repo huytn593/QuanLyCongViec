@@ -1,0 +1,10 @@
+# Database Configuration
+spring.data.mongodb.uri=mongodb://localhost:27017/qlcv_db
+
+# JWT Configuration
+qlcv.app.jwtSecret=======================QLCV_JWT_SECRET_KEY_256_BITS_MINIMUM======================
+qlcv.app.jwtExpirationMs=86400000
+
+# App Settings
+spring.application.name=qlcv
+server.port=8080
