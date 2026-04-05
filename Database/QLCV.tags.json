@@ -1,0 +1,192 @@
+[{
+  "_id": {
+    "$oid": "69bad8d7d7106dc7eb357067"
+  },
+  "userId": "69baa03ef689c81c22d0abd4",
+  "name": "Việc nhà",
+  "color": "#ef4444",
+  "createdAt": {
+    "$date": "2026-03-18T16:54:47.841Z"
+  },
+  "_class": "com.j2ee.qlcv.model.Tag"
+},
+{
+  "_id": {
+    "$oid": "69bada4bd7106dc7eb357068"
+  },
+  "userId": "69baa03ef689c81c22d0abd4",
+  "name": "Vô cùng quan trọng",
+  "color": "#f59e0b",
+  "createdAt": {
+    "$date": "2026-03-18T17:00:59.826Z"
+  },
+  "_class": "com.j2ee.qlcv.model.Tag"
+},
+{
+  "_id": {
+    "$oid": "69c1446cb70bf9633df77308"
+  },
+  "userId": "69c14422b70bf9633df77306",
+  "name": "Sếp",
+  "color": "#ef4444",
+  "createdAt": {
+    "$date": "2026-03-23T13:47:24.821Z"
+  },
+  "_class": "com.j2ee.qlcv.model.Tag"
+},
+{
+  "_id": {
+    "$oid": "69d0c434262474e69b70f7b6"
+  },
+  "userId": "69c14422b70bf9633df77306",
+  "name": "Intern",
+  "color": "#10b981",
+  "createdAt": {
+    "$date": "2026-04-04T07:56:36.862Z"
+  },
+  "_class": "com.j2ee.qlcv.model.Tag"
+},
+{
+  "_id": {
+    "$oid": "69d0c442262474e69b70f7b7"
+  },
+  "userId": "69c14422b70bf9633df77306",
+  "name": "Fresher",
+  "color": "#3b82f6",
+  "createdAt": {
+    "$date": "2026-04-04T07:56:50.474Z"
+  },
+  "_class": "com.j2ee.qlcv.model.Tag"
+},
+{
+  "_id": {
+    "$oid": "69d0c455262474e69b70f7b8"
+  },
+  "userId": "69c14422b70bf9633df77306",
+  "name": "Junior",
+  "color": "#f59e0b",
+  "createdAt": {
+    "$date": "2026-04-04T07:57:09.032Z"
+  },
+  "_class": "com.j2ee.qlcv.model.Tag"
+},
+{
+  "_id": {
+    "$oid": "69d0c45d262474e69b70f7b9"
+  },
+  "userId": "69c14422b70bf9633df77306",
+  "name": "Senior",
+  "color": "#8b5cf6",
+  "createdAt": {
+    "$date": "2026-04-04T07:57:17.751Z"
+  },
+  "_class": "com.j2ee.qlcv.model.Tag"
+},
+{
+  "_id": {
+    "$oid": "69d0c510262474e69b70f7bc"
+  },
+  "userId": "69d0c4f9262474e69b70f7bb",
+  "name": "Intern",
+  "color": "#10b981",
+  "createdAt": {
+    "$date": "2026-04-04T08:00:16.347Z"
+  },
+  "_class": "com.j2ee.qlcv.model.Tag"
+},
+{
+  "_id": {
+    "$oid": "69d0c517262474e69b70f7bd"
+  },
+  "userId": "69d0c4f9262474e69b70f7bb",
+  "name": "Fresher",
+  "color": "#3b82f6",
+  "createdAt": {
+    "$date": "2026-04-04T08:00:23.204Z"
+  },
+  "_class": "com.j2ee.qlcv.model.Tag"
+},
+{
+  "_id": {
+    "$oid": "69d0c521262474e69b70f7be"
+  },
+  "userId": "69d0c4f9262474e69b70f7bb",
+  "name": "Leader",
+  "color": "#ef4444",
+  "createdAt": {
+    "$date": "2026-04-04T08:00:33.560Z"
+  },
+  "_class": "com.j2ee.qlcv.model.Tag"
+},
+{
+  "_id": {
+    "$oid": "69d0c529262474e69b70f7bf"
+  },
+  "userId": "69d0c4f9262474e69b70f7bb",
+  "name": "Junior",
+  "color": "#2dd4bf",
+  "createdAt": {
+    "$date": "2026-04-04T08:00:41.666Z"
+  },
+  "_class": "com.j2ee.qlcv.model.Tag"
+},
+{
+  "_id": {
+    "$oid": "69d0c533262474e69b70f7c0"
+  },
+  "userId": "69d0c4f9262474e69b70f7bb",
+  "name": "Senior",
+  "color": "#64748b",
+  "createdAt": {
+    "$date": "2026-04-04T08:00:51.180Z"
+  },
+  "_class": "com.j2ee.qlcv.model.Tag"
+},
+{
+  "_id": {
+    "$oid": "69d12899d22ba028c496598d"
+  },
+  "userId": "69d12875d22ba028c496598c",
+  "name": "Quan trọng",
+  "color": "#ef4444",
+  "createdAt": {
+    "$date": "2026-04-04T15:04:57.393Z"
+  },
+  "_class": "com.j2ee.qlcv.model.Tag"
+},
+{
+  "_id": {
+    "$oid": "69d128a3d22ba028c496598e"
+  },
+  "userId": "69d12875d22ba028c496598c",
+  "name": "Gấp",
+  "color": "#ec4899",
+  "createdAt": {
+    "$date": "2026-04-04T15:05:07.786Z"
+  },
+  "_class": "com.j2ee.qlcv.model.Tag"
+},
+{
+  "_id": {
+    "$oid": "69d128add22ba028c496598f"
+  },
+  "userId": "69d12875d22ba028c496598c",
+  "name": "Của sếp",
+  "color": "#fb923c",
+  "createdAt": {
+    "$date": "2026-04-04T15:05:17.921Z"
+  },
+  "_class": "com.j2ee.qlcv.model.Tag"
+},
+{
+  "_id": {
+    "$oid": "69d1ff4d3839812cb174a856"
+  },
+  "userId": "69d12875d22ba028c496598c",
+  "name": "ABC",
+  "color": "#fb923c",
+  "createdAt": {
+    "$date": "2026-04-05T06:21:01.408Z"
+  },
+  "_class": "com.j2ee.qlcv.model.Tag"
+}]

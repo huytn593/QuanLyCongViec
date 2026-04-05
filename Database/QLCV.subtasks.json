@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "69bad4028dc95a9c014af26d"
+  },
+  "taskId": "69bad2458dc95a9c014af268",
+  "title": "Rửa chén",
+  "isDone": false,
+  "createdAt": {
+    "$date": "2026-03-18T16:34:10.220Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-18T16:54:03.452Z"
+  },
+  "_class": "com.j2ee.qlcv.model.Subtask"
+},
+{
+  "_id": {
+    "$oid": "69bad8b6d7106dc7eb357066"
+  },
+  "taskId": "69bad2458dc95a9c014af268",
+  "title": "Lau nhà",
+  "isDone": true,
+  "createdAt": {
+    "$date": "2026-03-18T16:54:14.191Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-18T16:54:17.843Z"
+  },
+  "_class": "com.j2ee.qlcv.model.Subtask"
+},
+{
+  "_id": {
+    "$oid": "69d0c3c6262474e69b70f7b3"
+  },
+  "taskId": "69d0c39f262474e69b70f7b2",
+  "title": "them tim kiem vao fe",
+  "isDone": true,
+  "createdAt": {
+    "$date": "2026-04-04T07:54:46.180Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-04T07:54:50.494Z"
+  },
+  "_class": "com.j2ee.qlcv.model.Subtask"
+},
+{
+  "_id": {
+    "$oid": "69d0c3c7262474e69b70f7b4"
+  },
+  "taskId": "69d0c39f262474e69b70f7b2",
+  "title": "them tim kiem vao fe",
+  "isDone": false,
+  "createdAt": {
+    "$date": "2026-04-04T07:54:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-04T07:54:47.298Z"
+  },
+  "_class": "com.j2ee.qlcv.model.Subtask"
+},
+{
+  "_id": {
+    "$oid": "69d12920d22ba028c4965991"
+  },
+  "taskId": "69d12901d22ba028c4965990",
+  "title": "Sếp yêu cầu làm gấp trong khoảng thời gian tới 25/4",
+  "isDone": true,
+  "createdAt": {
+    "$date": "2026-04-04T15:07:12.459Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-04T15:08:13.099Z"
+  },
+  "_class": "com.j2ee.qlcv.model.Subtask"
+}]

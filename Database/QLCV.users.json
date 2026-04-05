@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "69baa03ef689c81c22d0abd4"
+  },
+  "email": "anly1704@gmail.com",
+  "password": "$2a$10$Gdij/ysCaHEjkz6j.2juGOmL5zTQrl0CKZVJI5e9pa9epaEd/6zVS",
+  "fullName": "John Doe",
+  "createdAt": {
+    "$date": "2026-03-18T12:53:18.203Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-18T12:53:18.203Z"
+  },
+  "_class": "com.j2ee.qlcv.model.User"
+},
+{
+  "_id": {
+    "$oid": "69c14422b70bf9633df77306"
+  },
+  "email": "huytn593@gmail.com",
+  "password": "$2a$10$M0wCPsTMrs1u0eKV.nBYOOXzvSXJ0IdShFAVfw612.tfaGq2hlYwG",
+  "fullName": "Trần Phạm Gia Huy",
+  "createdAt": {
+    "$date": "2026-03-23T13:46:10.164Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-23T13:46:10.164Z"
+  },
+  "_class": "com.j2ee.qlcv.model.User"
+},
+{
+  "_id": {
+    "$oid": "69d0c4f9262474e69b70f7bb"
+  },
+  "email": "nguyenthanhtai270604@gmail.com",
+  "password": "$2a$10$7lzDHJLkN7Eoq3wXtRzYcOFwCDejchFHRMqZBQ8RMUPQent3imXLq",
+  "fullName": "Nguyễn Thành Tài",
+  "createdAt": {
+    "$date": "2026-04-04T07:59:53.967Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-04T07:59:53.967Z"
+  },
+  "_class": "com.j2ee.qlcv.model.User"
+},
+{
+  "_id": {
+    "$oid": "69d12875d22ba028c496598c"
+  },
+  "email": "huytakoyaki@gmail.com",
+  "password": "$2a$10$AKxr8crHauQbTJRbdg17YO2S7Mx7GAF0l/tHlSP6jXr3bErMlbzQO",
+  "fullName": "Trần Phạm Gia Huy",
+  "createdAt": {
+    "$date": "2026-04-04T15:04:21.498Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-05T06:21:36.462Z"
+  },
+  "_class": "com.j2ee.qlcv.model.User"
+}]

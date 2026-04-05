@@ -1,0 +1,315 @@
+[{
+  "_id": {
+    "$oid": "69bad2458dc95a9c014af268"
+  },
+  "userId": "69baa03ef689c81c22d0abd4",
+  "title": "Viết nhật ký",
+  "description": "Là viết nhật kỳ thôi",
+  "status": "OVERDUE",
+  "priority": "LOW",
+  "dueDate": {
+    "$date": "2026-03-26T17:00:00.000Z"
+  },
+  "tags": [],
+  "progress": 50,
+  "isArchived": false,
+  "createdAt": {
+    "$date": "2026-03-18T16:26:45.191Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-03T14:53:00.230Z"
+  },
+  "_class": "com.j2ee.qlcv.model.Task"
+},
+{
+  "_id": {
+    "$oid": "69c14463b70bf9633df77307"
+  },
+  "userId": "69c14422b70bf9633df77306",
+  "title": "ABCXYZ",
+  "description": "Cần làm",
+  "status": "TODO",
+  "priority": "HIGH",
+  "dueDate": {
+    "$date": "2026-11-21T17:00:00.000Z"
+  },
+  "tags": [
+    "69c1446cb70bf9633df77308"
+  ],
+  "progress": 0,
+  "isArchived": false,
+  "createdAt": {
+    "$date": "2026-03-23T13:47:15.119Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-23T13:47:31.389Z"
+  },
+  "_class": "com.j2ee.qlcv.model.Task"
+},
+{
+  "_id": {
+    "$oid": "69d0c39f262474e69b70f7b2"
+  },
+  "userId": "69c14422b70bf9633df77306",
+  "title": "Frontend",
+  "description": "giao dien ",
+  "status": "OVERDUE",
+  "priority": "HIGH",
+  "dueDate": {
+    "$date": "2026-04-04T17:00:00.000Z"
+  },
+  "tags": [
+    "69c1446cb70bf9633df77308"
+  ],
+  "progress": 50,
+  "isArchived": false,
+  "createdAt": {
+    "$date": "2026-04-04T07:54:07.113Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-05T06:16:00.266Z"
+  },
+  "_class": "com.j2ee.qlcv.model.Task"
+},
+{
+  "_id": {
+    "$oid": "69d0c405262474e69b70f7b5"
+  },
+  "userId": "69c14422b70bf9633df77306",
+  "title": "backend",
+  "description": "backend nhoa",
+  "status": "DONE",
+  "priority": "MEDIUM",
+  "dueDate": {
+    "$date": "2026-04-04T17:00:00.000Z"
+  },
+  "completedAt": {
+    "$date": "2026-04-04T07:56:16.312Z"
+  },
+  "tags": [],
+  "progress": 100,
+  "isArchived": false,
+  "createdAt": {
+    "$date": "2026-04-04T07:55:49.229Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-04T07:56:16.313Z"
+  },
+  "_class": "com.j2ee.qlcv.model.Task"
+},
+{
+  "_id": {
+    "$oid": "69d0c49a262474e69b70f7ba"
+  },
+  "userId": "69c14422b70bf9633df77306",
+  "title": "Test",
+  "description": "intern lam thu",
+  "status": "OVERDUE",
+  "priority": "LOW",
+  "dueDate": {
+    "$date": "2026-04-04T17:00:00.000Z"
+  },
+  "tags": [
+    "69d0c434262474e69b70f7b6",
+    "69d0c442262474e69b70f7b7"
+  ],
+  "progress": 0,
+  "isArchived": false,
+  "createdAt": {
+    "$date": "2026-04-04T07:58:18.415Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-05T06:16:00.358Z"
+  },
+  "_class": "com.j2ee.qlcv.model.Task"
+},
+{
+  "_id": {
+    "$oid": "69d0c553262474e69b70f7c1"
+  },
+  "userId": "69d0c4f9262474e69b70f7bb",
+  "title": "Test",
+  "description": "Test123",
+  "status": "TODO",
+  "priority": "MEDIUM",
+  "dueDate": {
+    "$date": "2026-04-06T17:00:00.000Z"
+  },
+  "tags": [
+    "69d0c510262474e69b70f7bc",
+    "69d0c517262474e69b70f7bd"
+  ],
+  "progress": 0,
+  "isArchived": false,
+  "createdAt": {
+    "$date": "2026-04-04T08:01:23.897Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-04T08:01:23.897Z"
+  },
+  "_class": "com.j2ee.qlcv.model.Task"
+},
+{
+  "_id": {
+    "$oid": "69d0c567262474e69b70f7c2"
+  },
+  "userId": "69d0c4f9262474e69b70f7bb",
+  "title": "Test1",
+  "description": "Test",
+  "status": "IN_PROGRESS",
+  "priority": "LOW",
+  "dueDate": {
+    "$date": "2026-04-09T17:00:00.000Z"
+  },
+  "tags": [
+    "69d0c521262474e69b70f7be"
+  ],
+  "progress": 0,
+  "isArchived": false,
+  "createdAt": {
+    "$date": "2026-04-04T08:01:43.845Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-04T08:01:46.151Z"
+  },
+  "_class": "com.j2ee.qlcv.model.Task"
+},
+{
+  "_id": {
+    "$oid": "69d0c57f262474e69b70f7c3"
+  },
+  "userId": "69d0c4f9262474e69b70f7bb",
+  "title": "Test2",
+  "description": "tttest",
+  "status": "DONE",
+  "priority": "HIGH",
+  "dueDate": {
+    "$date": "2026-04-10T17:00:00.000Z"
+  },
+  "completedAt": {
+    "$date": "2026-04-04T08:02:10.739Z"
+  },
+  "tags": [
+    "69d0c529262474e69b70f7bf",
+    "69d0c533262474e69b70f7c0",
+    "69d0c517262474e69b70f7bd"
+  ],
+  "progress": 100,
+  "isArchived": false,
+  "createdAt": {
+    "$date": "2026-04-04T08:02:07.211Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-04T08:02:10.739Z"
+  },
+  "_class": "com.j2ee.qlcv.model.Task"
+},
+{
+  "_id": {
+    "$oid": "69d0c64c262474e69b70f7c4"
+  },
+  "userId": "69d0c4f9262474e69b70f7bb",
+  "title": "ttest",
+  "description": "tttest",
+  "status": "OVERDUE",
+  "priority": "MEDIUM",
+  "dueDate": {
+    "$date": "2026-04-01T17:00:00.000Z"
+  },
+  "tags": [
+    "69d0c510262474e69b70f7bc"
+  ],
+  "progress": 0,
+  "isArchived": false,
+  "createdAt": {
+    "$date": "2026-04-04T08:05:32.571Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-04T08:06:00.060Z"
+  },
+  "_class": "com.j2ee.qlcv.model.Task"
+},
+{
+  "_id": {
+    "$oid": "69d12901d22ba028c4965990"
+  },
+  "userId": "69d12875d22ba028c496598c",
+  "title": "Frontend sửa đổi nhãn và thiết kế tổng cục layout",
+  "description": "350% HxW, 10% user responsive, 90% test",
+  "status": "DONE",
+  "priority": "LOW",
+  "dueDate": {
+    "$date": "2026-04-24T17:00:00.000Z"
+  },
+  "completedAt": {
+    "$date": "2026-04-04T15:08:03.996Z"
+  },
+  "tags": [
+    "69d12899d22ba028c496598d",
+    "69d128add22ba028c496598f",
+    "69d128a3d22ba028c496598e"
+  ],
+  "progress": 100,
+  "isArchived": false,
+  "createdAt": {
+    "$date": "2026-04-04T15:06:41.825Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-04T15:08:13.269Z"
+  },
+  "_class": "com.j2ee.qlcv.model.Task"
+},
+{
+  "_id": {
+    "$oid": "69d12981d22ba028c4965992"
+  },
+  "userId": "69d12875d22ba028c496598c",
+  "title": "A",
+  "description": "ABC",
+  "status": "OVERDUE",
+  "priority": "HIGH",
+  "dueDate": {
+    "$date": "2026-04-05T17:00:00.000Z"
+  },
+  "tags": [
+    "69d12899d22ba028c496598d",
+    "69d128a3d22ba028c496598e",
+    "69d128add22ba028c496598f"
+  ],
+  "progress": 0,
+  "isArchived": false,
+  "createdAt": {
+    "$date": "2026-04-04T15:08:49.281Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-05T06:20:34.899Z"
+  },
+  "_class": "com.j2ee.qlcv.model.Task"
+},
+{
+  "_id": {
+    "$oid": "69d1ff213839812cb174a855"
+  },
+  "userId": "69d12875d22ba028c496598c",
+  "title": "ABC",
+  "description": "ABC",
+  "status": "TODO",
+  "priority": "MEDIUM",
+  "dueDate": {
+    "$date": "2026-04-29T17:00:00.000Z"
+  },
+  "tags": [
+    "69d12899d22ba028c496598d",
+    "69d128a3d22ba028c496598e",
+    "69d128add22ba028c496598f"
+  ],
+  "progress": 0,
+  "isArchived": false,
+  "createdAt": {
+    "$date": "2026-04-05T06:20:17.638Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-05T06:20:17.638Z"
+  },
+  "_class": "com.j2ee.qlcv.model.Task"
+}]
